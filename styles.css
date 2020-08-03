@@ -12,16 +12,20 @@ p {
   font-size: 13px;
 }
 
-.card {
+.container-fluid {
+  /* margin: 100px; */
+}
+
+.box-image {
   text-align: right;
 }
 
-
+.box-text {
+  padding: 20px;
+}
 
 .img {
   width: 300px;
-  position: relative;
-  float: left;
 }
 
 
